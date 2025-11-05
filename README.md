@@ -1,6 +1,6 @@
 # 🌸 Tugas Akhir Praktikum Jaringan Komputer (Judul 2)
 
-## 👩‍💻 Identitas Mahasiswa
+
 | Keterangan | Data |
 |-----------|------|
 | **Nama** | Dewi Resmiyanti |
@@ -29,14 +29,5 @@ Klik link berikut untuk melihat video penjelasan tugas akhir:
 
 🔗 https://youtu.be/UH07PA-IOBQ?si=WjOn6ph-9Pl04Fqf
 
----
 
-## 🖼️ Tema Project: Bunga Biru
 
-<img width="450" src="https://i.postimg.cc/L4TpHxS7/blue-flower-1.jpg">
-
-Tema bunga biru dipilih untuk memberikan nuansa tenang, elegan, dan estetika natural pada tampilan web.
-
----
-
-## 📂 Struktur File
